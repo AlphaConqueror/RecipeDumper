@@ -1,3 +1,0 @@
-A constructor for `org.gradle.api.internal.java.JavaLibrary` is used by Shadow plugin v1.2.x, and has been preserved for compatibility. This has been deprecated and is scheduled to be removed in Gradle 5.0. If you're using the Shadow plugin, try upgrading to v2.x.
-	at build_1vawz6k41d47qotcwbq5h1l28.run(E:\Dokumente\IDEA-workspace\RecipeDumper\build.gradle:24)
-	(Run with --stacktrace to get the full stack trace of this deprecation warning.)
